@@ -128,7 +128,7 @@ function App() {
                 />
             </div>
         </div>
-        {/*Message*/}
+        {/*Form Footer*/}
         <div class="form-footer">
           <span> * required</span>
           <button type="submit" class="btn">Register</button>
